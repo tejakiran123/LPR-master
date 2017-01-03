@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "132124926759",
+    "project_id": "licenseplaterecognitions-68ee2"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132124926759:android:a03e6d3d8cf6fc80",
+        "android_client_info": {
+          "package_name": "com.example.aditya.lpr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132124926759-o6bpr23lkfap2t3ur7i46o20ok3m5lrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aditya.lpr",
+            "certificate_hash": "EB294E1E847391D625889A8598D6536C964CA3CD"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
